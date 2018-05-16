@@ -1,3 +1,3 @@
 class Project
-  attr_accessor :backers
+  attr_accessor :name, :backers
 end
